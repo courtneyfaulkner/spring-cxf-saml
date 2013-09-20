@@ -13,7 +13,7 @@ In a separate shell window:
     spring-cxf-saml $ cd server
     server $ mvn jetty:run
 
-Open http://localhost:8080/client/hello , enter values and select submit.
+Open http://localhost:9090/client/hello , enter values and select submit.
 
 [saml]: http://en.wikipedia.org/wiki/Security_Assertion_Markup_Language
 [opensaml]: https://spaces.internet2.edu/display/OpenSAML/Home/

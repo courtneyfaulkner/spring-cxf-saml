@@ -11,12 +11,6 @@
 		<module>client</module>
 		<module>server</module>
 	</modules>
-	<repositories>
-		<repository>
-			<id>jboss</id>
-			<url>http://repository.jboss.org/maven2</url>
-		</repository>
-	</repositories>
 	<properties>
 		<cxf.version>2.2.6</cxf.version>
 		<org.springframework.version>3.0.1.RELEASE</org.springframework.version>
